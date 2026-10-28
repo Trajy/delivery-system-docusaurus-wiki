@@ -1,0 +1,8 @@
+{
+  "label": "Arquitetura e Modelagem",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Detalhes de Arquitetura e Modelagem DDD (Domain-Driven-Design) para o projeto Delivery System"
+  }
+}
