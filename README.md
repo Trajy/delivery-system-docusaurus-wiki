@@ -4,7 +4,7 @@ Este repositório contém a documentação técnica do **Delivery System**, dese
 
 ## Acesse a documentação
 
-[Abrir a documentação publicada](https://delivery-system.trajy.com)
+[Abrir a documentação publicada](https://trajy.github.io/delivery-system-docusaurus-wiki/)
 
 ## Sobre esta documentação
 
